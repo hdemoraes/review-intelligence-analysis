@@ -1,3 +1,14 @@
+## 🚀 Review Intelligence System
+
+Automated analytics tool that transforms large-scale customer reviews into actionable business insights.
+
+✔ Processes thousands of reviews in seconds  
+✔ Identifies sentiment and complaint drivers  
+✔ Generates business recommendations  
+✔ Produces structured PDF reports  
+
+👉 Built as a real-world analytics solution for businesses.
+
 # Customer Review Intelligence Analysis
 
 ## Overview
